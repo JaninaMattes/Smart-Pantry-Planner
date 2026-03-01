@@ -81,7 +81,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository documents the design and development of **Cookly**, a smart, social cooking app that helps users reduce food waste, manage their pantry efficiently and discover personalised and healthy meal suggestions. Cookly builds upon the concepts explored in my earlier project [Fudge](https://github.com/JaninaMattes/fudge-android-springboot).
+Cookly is a mobile-first social cooking app that helps users to reduce food waste, manage their pantry and discover personalised meal suggestions. It builds upon [Fudge](https://github.com/JaninaMattes/fudge-android-springboot), 
+a fully working Android app with a Spring Boot backend, extending it with social features, collaborative meal planning and an improved UI/UX design.
 
 Cookly combines inventory tracking with automated recipe recommendations based on available ingredients and social features that allow users to share recipes, meal plans and shopping lists with friends or household members. The aim of this mobile application is to provide a seamless, healthy and collaborative cooking experience that adapts to each user's lifestyle and preferences, whilst reducing obstacles, time blockers and private household waste.
 
